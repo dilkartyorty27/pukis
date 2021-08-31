@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/bajingloncat86?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  pukis" /></a>
+<a href="https://www.instagram.com/bajingloncat86?r=nametag"><img src="https://telegra.ph/file/6ecd15b19abb0120c0191.jpg" width="320" height="211" alt="  pukis" /></a>
 
 <p align="center">
   <a href="https://github.com/dilkartyorty27/pukis/fork">
@@ -15,8 +15,8 @@
 <a href="https://t.me/joinchat/bJRxPh3kw_MyMzll"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **papi woah** 🤖
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/yourdad46)
+* **papi woah** 🐷
+[<img src="https://telegra.ph/file/f9e63ccfca94b6a45d50c.jpg">](https://t.me/yourdad46)
 
   
   
