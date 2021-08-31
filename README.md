@@ -1,44 +1,44 @@
-<a href="https://www.instagram.com/ramadh20?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RAM-UBOT" /></a>
+<a href="https://www.instagram.com/bajingloncat86?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  pukis" /></a>
 
 <p align="center">
-  <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
+  <a href="https://github.com/dilkartyorty27/pukis/fork">
     <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
+  <a href="https://github.com/dilkartyorty27/pukis">
     <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
   </a>
 </p>  
 
 ![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
 
-<a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
+<a href="https://t.me/joinchat/bJRxPh3kw_MyMzll"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **Landak** 🦔
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/maafgausahsokap)
+* **papi woah** 🤖
+[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/yourdad46)
 
   
   
   
   
-# KALO FORK TUH KASIH BINTANG YA TOLOL!
+# TOLONG KALO FORK TUH KASIH BINTANG YAH !
 
 
-### JOIN DULU TOT!!:
+### JOIN DULU !!:
 
-<a href="https://t.me/ramubotinfo"><img src="https://img.shields.io/badge/Channel%20RAM%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/teman_random"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/joinchat/bJRxPh3kw_MyMzll"><img src="https://img.shields.io/badge/Channel%20RAM%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/jarepukis"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Penjelasan:
-* **Repo Nya toxic, Gajelas pokoknya mah.** 
-[<img src="https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg">](https://t.me/ootspambott)
+* **Repo buat coba coba doang, Gajelas pokoknya mah.** 
+[<img src="https://telegra.ph/file/f9e63ccfca94b6a45d50c.jpg">](https://t.me/joinchat/bJRxPh3kw_MyMzll)
 
 
-<h3 align="center">REPO RAM UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
+<h3 align="center">REPO PUKIS DIBUAT BUAT SENENG SENENG DOANG.</h3>
 <p align="center">&nbsp;</p>
 
-### <a href="https://t.me/ootspambot"><img src="https://img.shields.io/badge/GROUP%20SPAM%20RAM%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
+### <a href="https://t.me/joinchat/bJRxPh3kw_MyMzll"><img src="https://img.shields.io/badge/GROUP%20SPAM%20RAM%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
 
 
 ## Bagaimana Cara Deploy?
@@ -58,9 +58,7 @@
 </p>
 
 ## Credit
-TERIMAKASIH UNTUK
+TENTANG SAYA :
 
-*   [VICKY](https://t.me/vckyouubitch) - ⚡Geez-Userbot⚡
-*   [KOALA](https://t.me/manusiarakitann) - KAMPANG BOT
-*   [TEAMULTROID](https://github.com/TeamUltroid) - ULTROID
-*    DAN MASIH BANYAK LAGI TOT
+*   [GROUP](https://t.me/joinchat/bJRxPh3kw_MyMzll) - 𝐆𝐚𝐧𝐠 𝐀𝐛𝐬𝐮𝐫𝐝
+*   [CHANNEL](https://t.me/jarepukis) - 𝐉𝐚𝐫𝐞 𝐏𝐮𝐤𝐢𝐬
