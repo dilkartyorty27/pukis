@@ -15,7 +15,7 @@
 <a href="https://t.me/joinchat/bJRxPh3kw_MyMzll"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **papi woah** 🐷
+* **papi woah** 🐻‍❄️
 [<img src="https://telegra.ph/file/f9e63ccfca94b6a45d50c.jpg">](https://t.me/yourdad46)
 
   
